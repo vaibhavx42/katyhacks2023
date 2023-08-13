@@ -124,6 +124,13 @@ Our system ensures transparent and efficient coin management, tracking volunteer
 ![WhatsApp Image 2023-08-13 at 19 52 36 (4)](https://github.com/vaibhavx42/katyhacks2023/assets/110530263/e2ab4128-e65c-455b-9bdd-79a6de166379)
 ![WhatsApp Image 2023-08-13 at 19 52 36](https://github.com/vaibhavx42/katyhacks2023/assets/110530263/b9472914-f68c-4a87-be84-67220b4c8fa7)
 
+- Below is our merchandise store for exchanging coins link has been uploaded above 
+
+https://github.com/vaibhavx42/katyhacks2023/assets/110530263/103bef9f-db18-45f2-b12f-9f51af10475f
+
+
+
+
 ## 💥 `How to Contribute to Ahaar?`
 
 - Take a look at the Existing [Issues](https://github.com/vaibhavx42/katyhack2023/issues) or create your own Issues!
