@@ -44,7 +44,7 @@
 - **Every day, approximately 1.3 billion tons of edible food is wasted globally, while millions of individuals and families struggle to secure their next meal.** 
 - The inspiration behind Ahaar stemmed from the pressing need to address the issues of hunger and promote sustainability within local communities. 
 - In order to connect surplus food resources with people in need and to promote an ecosystem of social responsibility and environmental consciousness, we set out on our adventure. Our initiative, ahaaR, is a platform created to fill the gap between people who have access to surplus food and those who do not.
-- ahaaR connects surplus food providers with volunteers to redistribute food to individuals in need. Through a seamless platform, surplus food is listed, volunteers pick up and deliver, nourishing communities and minimizing waste. This sustainable solution tackles hunger, empowers volunteers, and raises awareness about food wastage's dire impact. ahaaR: Filling plates, fostering change. While volunteers can exchange it for merch dedicatedly made for them to foster more community work:)
+- ahaaR connects surplus food providers with volunteers to redistribute food to individuals in need. Through a seamless platform, surplus food is listed, volunteers pick up and deliver, nourishing communities and minimizing waste. This sustainable solution tackles hunger, empowers volunteers, and raises awareness about food wastage's dire impact. ahaaR: Filling plates, fostering change. **While volunteers can exchange it for merch dedicatedly made for them to foster more community work:)**
 
 
 
@@ -84,9 +84,6 @@ Try the above code [HERE](https://merchxstore.netlify.app/)
 
 ### Sustainable Food Redistribution
 Ahaar tackles food wastage by connecting surplus food providers with those in need, ensuring that excess food finds its way to hungry individuals instead of being discarded.
-
-### GPS-Based Food Locator
-Utilizing GPS technology, Ahaar enables users to locate nearby surplus food providers and make informed choices about accessing available food resources.
 
 ### Volunteer Reward System
 Our platform motivates volunteers to participate in food redistribution by rewarding them with coins for their contributions, which can be redeemed on the merchandise platform.
