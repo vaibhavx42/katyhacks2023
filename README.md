@@ -109,6 +109,8 @@ Our system ensures transparent and efficient coin management, tracking volunteer
 - Explore the Merchandise Store: Visit the [MerchX Store](https://merchxstore.netlify.app/) to explore a variety of eco-friendly merchandise.
 
 - Redeem Your Coins: Exchange your earned coins for unique merchandise codes through the reward portal. You can use these codes to purchase merchandise items.
+- Please use the code listed below for the merchandise store.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TRIAL+CODE++-+%22EXAMPLE123%22)](https://git.io/typing-svg)   
 
 ## `Screenshots and Video`
 
