@@ -81,6 +81,7 @@ npm start
 
 Try the above code [HERE](https://merchxstore.netlify.app/)
 
+
 ### Sustainable Food Redistribution
 Ahaar tackles food wastage by connecting surplus food providers with those in need, ensuring that excess food finds its way to hungry individuals instead of being discarded.
 
